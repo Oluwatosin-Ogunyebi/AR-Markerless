@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   furnitureName: Rastog
   furnitureIcon: {fileID: 2800000, guid: 35eb061369802aa4b8962429b338cd14, type: 3}
-  furniturePrefab: {fileID: 2709610796022544031, guid: 00e2e5faa73b34a4eb70dde41a128237,
+  furniturePrefab: {fileID: 8224880602691174611, guid: e0f3afc1cb536c2409cdb8a3d2b94015,
     type: 3}

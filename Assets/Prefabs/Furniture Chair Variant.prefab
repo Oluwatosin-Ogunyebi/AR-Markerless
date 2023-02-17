@@ -82,6 +82,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 232633373242615033, guid: cdb854e1c6dff434991f2ac8345b9841,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1763569628181195745, guid: cdb854e1c6dff434991f2ac8345b9841,
         type: 3}
       propertyPath: _rendererToChange
@@ -90,7 +95,7 @@ PrefabInstance:
     - target: {fileID: 5429428190146053600, guid: cdb854e1c6dff434991f2ac8345b9841,
         type: 3}
       propertyPath: m_Name
-      value: Furniture Variant
+      value: Furniture Chair Variant
       objectReference: {fileID: 0}
     - target: {fileID: 6361959989615360523, guid: cdb854e1c6dff434991f2ac8345b9841,
         type: 3}

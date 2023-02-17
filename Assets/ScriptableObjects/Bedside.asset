@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   furnitureName: Bedside
   furnitureIcon: {fileID: 2800000, guid: b772064df6aec3e43a4c41009b37a5d9, type: 3}
-  furniturePrefab: {fileID: 5060321802050561435, guid: 935046bf0b9bbda48ae45e6c1b9218ae,
+  furniturePrefab: {fileID: 6315787529341977247, guid: 9acaaa7db6ab4a748bfbd32ab768d4cd,
     type: 3}
