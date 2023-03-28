@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   furnitureName: Chair
   furnitureIcon: {fileID: 2800000, guid: da0a688f9a1ece54192891e77c5fc6a6, type: 3}
-  furniturePrefab: {fileID: 3565846757628258639, guid: 0546e79bed7f75145b2f8983c0d61c0e,
+  furniturePrefab: {fileID: 2069945785056278722, guid: 736e6a08b1d0d8843b57dc3bcdeda1ef,
     type: 3}
